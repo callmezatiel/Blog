@@ -35,3 +35,10 @@ actualizamos el repositorio y el sistema
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+
+
+Azure Cli
+
+```
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+```
