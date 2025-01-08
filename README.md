@@ -10,3 +10,6 @@ Personal Tutorials
 Compilation of personal tutorials written at the request of the channel
 
 Zatiel Never Die
+
+8/01/2025
+
